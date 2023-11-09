@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am currently studying for a Master in Computer Science and Technology at Lanzhou University.
+
 <!--
 **yzcs123456/yzcs123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
